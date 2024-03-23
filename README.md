@@ -1,7 +1,3 @@
-Hi 👋, I'm Foboz
-
-Experienced FiveM Full Stack developer specializing in Lua scripting, JavaScript, and SQL. Passionate about crafting immersive gaming experiences
-
 
 
     🔭 Currently, I'm engaged in developing Westkust Roleplay.
