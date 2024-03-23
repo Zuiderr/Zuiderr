@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/fobozo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fobozo" height="30" width="40" /></a>
-<a href="https://discord.gg/wsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wsk" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/@adminfss]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Zuider" height="30" width="40" /></a>
+<a href="https://discord.gg/JAaKKaPPJQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Zuider" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,4 +27,4 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fobozongithub&show_icons=true&theme=dark&locale=en&layout=compact" alt="fobozongithub" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fobozongithub&show_icons=true&theme=dark&locale=en&layout=compact" alt="Zuider" /></p>
