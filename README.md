@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Foboz</h1>
-<h3 align="center">Experienced FiveM Full Stack developer specializing in Lua scripting, JavaScript, and SQL. Passionate about crafting immersive gaming experiences</h3>
+<h1 align="center">Hi 👋, I'm Zuider</h1>
+<h3 align="center">Experienced FiveM Full Stack developer specializing in Lua scripting, and SQL. Passionate about crafting immersive gaming experiences</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fobozongithub&label=Profile%20views&color=000000&style=flat" alt="fobozongithub" /> </p>
 
-- 🔭 Currently, I'm engaged in developing [Westkust Roleplay.](https://discord.gg/wsk)
+- 🔭 Currently, I'm engaged in developing [CFX Scripts.]([https://discord.gg/JAaKKaPPJQ])
 
 - 🌱 I'm currently immersing myself in the worlds of **C++ and Laravel to deepen my understanding of programming languages and web development.**
 
