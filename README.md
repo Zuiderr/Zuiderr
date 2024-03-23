@@ -9,7 +9,7 @@
 
 - 💬 Feel free to inquire about anything related to **FiveM or web development.**
 
-- 📫 You can easily reach me at **fobozomail@proton.me.**
+- 📫 You can easily reach me at **nightmarefivem@gmail.com.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
