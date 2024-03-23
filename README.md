@@ -1,8 +1,7 @@
-Hi 👋, I'm Zuider
-
+Hi 👋, I'm Foboz
 Experienced FiveM Full Stack developer specializing in Lua scripting, JavaScript, and SQL. Passionate about crafting immersive gaming experiences
 
-
+fobozongithub
 
     🔭 Currently, I'm engaged in developing Westkust Roleplay.
 
