@@ -5,7 +5,7 @@
 
 - 🔭 Currently, I'm engaged in developing [CFX Scripts.]([https://discord.gg/JAaKKaPPJQ])
 
-- 🌱 I'm currently immersing myself in the worlds of **C++ and Laravel to deepen my understanding of programming languages and web development.**
+- 🌱 I'm currently immersing myself in the worlds of **Javascript to deepen my understanding of programming languages.**
 
 - 💬 Feel free to inquire about anything related to **FiveM or web development.**
 
